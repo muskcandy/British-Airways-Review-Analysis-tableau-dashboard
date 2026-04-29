@@ -1,9 +1,10 @@
 # British-Airways-tableau-dashboard
 here is the tableau link 
-https://public.tableau.com/views/Britishairwaymap/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/app/profile/venu.sai.naik.banothu/viz/BritishAirwaysReviews_17774432626750/Dashboard1?publish=yes
 <br> <br>
 📷 Dashboard Preview
-<img width="2425" height="1630" alt="British airway map tableau schreenshot" src="https://github.com/user-attachments/assets/f9ab5e98-9d5c-430d-b350-d12df75b4b2b" />
+<img width="2444" height="1454" alt="british airway tableau" src="https://github.com/user-attachments/assets/265f3058-65a8-4b74-9675-10bf933578ea" />
+ />
 
 
 ✈️ British Airways Review Analysis – Tableau Dashboard
